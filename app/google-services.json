@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946401260336",
+    "project_id": "netflix-clone-fec45",
+    "storage_bucket": "netflix-clone-fec45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946401260336:android:da0692abaa104ca0600ef5",
+        "android_client_info": {
+          "package_name": "com.example.aprendendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946401260336-koslpl7ccimhdpbtg68lr9bcgs5ssnfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1rT6pqQ3uD9Uluo2P-hVhJnhSM2FKyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946401260336-koslpl7ccimhdpbtg68lr9bcgs5ssnfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
